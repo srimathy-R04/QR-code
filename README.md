@@ -16,4 +16,4 @@ A responsive QR Code Component built as part of a Frontend Mentor challenge.
 - Centered card using Flexbox
 
 ## 👩‍💻 Author
-Sri Mathy
+Srimathy R
